@@ -1,7 +1,7 @@
 # CIID Data Viz workshop (April 23rd - 27th, 2018)
 ### Day 1 - Data Pipeline
 * The Data Pipeline
-	* Data Collection/Sourceing
+	* Data Collection/Sourcing
 		* Open Datasets
 		* Web Scrapping with Python
 		* Scrapping data from JS visualizations
