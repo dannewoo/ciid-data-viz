@@ -2,18 +2,9 @@
 * The Data Pipeline
 	* Data Collection/Sourcing
 		* Open Datasets
-			* Government open data sets
-			* Research organizations
-			* Publicly traded corporations (SEC filings)
-			* Journalistic resources
-			* Crowd sourced data
-		* Web Scrapping with Python
-			* HTML data formats
-			* Data scrapping using APIs (Tweepy)
+		* Web Scrapping with Python or Data Miner
 		* Scrapping data from JS visualizations
-			* Most online interactive data visualizations have accessable data sets in the source code.
 		* Using Tabula to extract data from PDFs
-			* Annual reports, financial public filings, research papers usually are PDFs which is not a easily usable or convertable data format.
 		* "Big Data"
 	* Scrubbing/Cleaning Data
 		* Why we need to throughly clean our datasets
@@ -21,8 +12,31 @@
 		* Open Refine
 	* Best tools and practices for data analysis
 		* Excel/Google Sheets
-			* Pivot Tables
-			* Formulas
 		* Python and R
 	* Visualizing for insight
 		* Charting tools in Excel/Google Sheets
+
+### Resources
+* Sourcing Data
+	* [Google Trends](https://www.google.com/trends/)
+	* Google Correlate
+	* City of New York
+	* United States Census
+	* United States Data
+	* United States Department of Transportation
+	* Bureau of Economic Analysis
+	* World Bank Data
+	* UN Data
+	* UN Human Development
+	* Baseball Reference
+	* Enigma Open Database
+	* CitiBike Data
+	* The Gaurdian Datablog
+	* Google Flu Trends
+	* Quartz Atlas
+	* 100+ Interesting Data Sets
+	* Information is Beautiful
+* Data Scraping
+	* Python and Beautiful Soup
+	* Python and Tweepy
+	* Data-Miner
