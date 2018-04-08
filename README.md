@@ -54,3 +54,12 @@ Design and build and interactive data visualization or information graphic that 
 * Live data and APIs
 	* Weather data
 
+### Suggested Reading
+* [The Functional Art, by Alberto Cairo](https://www.amazon.com/gp/product/0321834739/)
+* [The Truthful Art, by Alberto Cairo](https://www.amazon.com/gp/product/0321934075)
+* [Edward Tufte Books(All of Them)](https://www.edwardtufte.com/tufte/books_vdqi)
+* [Infographics: The Power of Visual Storytelling, by Jason Lankow,‎ Josh Ritchie,‎ Ross Crooks](https://www.amazon.com/Infographics-Visual-Storytelling-Jason-Lankow/dp/1118314042)
+* [Information Design Workbook, by Kim Baer](https://www.amazon.com/Information-Design-Workbook-approaches-inspiration/dp/1592536271)
+* [HTML and CSS, by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+* [JavaScript and JQuery, by Jon Duckett](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
+* [Interactive Data Visualization for the Web, by Scott Murray](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1449339735)

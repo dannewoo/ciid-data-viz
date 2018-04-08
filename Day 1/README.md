@@ -37,10 +37,12 @@
 	* [Quartz Atlas](https://atlas.qz.com/)
 	* [100+ Interesting Data Sets](http://rs.io/100-interesting-data-sets-for-statistics/)
 	* [Information is Beautiful](http://www.informationisbeautiful.net/data/)
+
 * Web Scraping
 	* [Python and Beautiful Soup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
 	* [Python and Tweepy](http://www.tweepy.org/)
 	* [Data-Miner](https://data-miner.io/)
+
 * Data Collection
 	* [Moves App - Track Your Location and Movement](https://www.moves-app.com/)
 	* [Daytum - Online Diary](http://daytum.com/)
@@ -54,11 +56,13 @@
 	* [iMood Journal - Keep track of your mood (Android and iPhone Apps)](https://www.imoodjournal.com/)
 	* [Pedometer & Weight Loss Coach - Tracks number of steps and calories burned (Android)](https://play.google.com/store/apps/details?id=cc.pacer.androidapp&hl=en)
 	* [Facebook Data Selfie Chrome Extension](http://dataselfie.it/)
+
 * Scrubbing Data
 	* [Sublime Text Edit](http://www.sublimetext.com/)
 	* [Open Refine](http://openrefine.org/)
 	* [Excel](https://products.office.com/en-us/excel)
 	* [Google Sheets](https://www.google.com/sheets/about/)
+
 * Data Analysis
 	* [Python](http://www.learnpython.org/)
 	* [R](https://www.r-project.org/)
