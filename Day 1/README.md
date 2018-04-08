@@ -16,27 +16,52 @@
 	* Visualizing for insight
 		* Charting tools in Excel/Google Sheets
 
-### Resources
+### Online Resources
 * Sourcing Data
 	* [Google Trends](https://www.google.com/trends/)
-	* Google Correlate
-	* City of New York
-	* United States Census
-	* United States Data
-	* United States Department of Transportation
-	* Bureau of Economic Analysis
-	* World Bank Data
-	* UN Data
-	* UN Human Development
-	* Baseball Reference
-	* Enigma Open Database
-	* CitiBike Data
-	* The Gaurdian Datablog
-	* Google Flu Trends
-	* Quartz Atlas
-	* 100+ Interesting Data Sets
-	* Information is Beautiful
-* Data Scraping
-	* Python and Beautiful Soup
-	* Python and Tweepy
-	* Data-Miner
+	* [Google Correlate](http://www.google.com/trends/correlate)
+	* [City of New York](https://data.cityofnewyork.us/)
+	* [United States Census](http://www.census.gov/)
+	* [United States Data](http://www.data.gov/)
+	* [United States Department of Transportation](http://www.rita.dot.gov/bts/data_and_statistics/index.html)
+	* [Bureau of Economic Analysis](http://www.bea.gov/)
+	* [World Bank Data](http://data.worldbank.org/)
+	* [UN Data](http://data.un.org/Explorer.aspx)
+	* [UN Human Development](http://hdr.undp.org/en/data)
+	* [Baseball Reference](http://www.baseball-reference.com/)
+	* [Soccer Statistics](https://www.whoscored.com/Statistics)
+	* [Enigma Open Database](http://enigma.io/)
+	* [CitiBike Data](http://www.citibikenyc.com/system-data)
+	* [The Gaurdian Datablog](http://www.theguardian.com/data)
+	* [Google Flu Trends](http://www.google.org/flutrends/about/)
+	* [Quartz Atlas](https://atlas.qz.com/)
+	* [100+ Interesting Data Sets](http://rs.io/100-interesting-data-sets-for-statistics/)
+	* [Information is Beautiful](http://www.informationisbeautiful.net/data/)
+* Web Scraping
+	* [Python and Beautiful Soup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
+	* [Python and Tweepy](http://www.tweepy.org/)
+	* [Data-Miner](https://data-miner.io/)
+* Data Collection
+	* [Moves App - Track Your Location and Movement](https://www.moves-app.com/)
+	* [Daytum - Online Diary](http://daytum.com/)
+	* [Reporter App - Mobile App Diary](http://www.reporter-app.com/)
+	* [Survey Monkey - Survey Service](https://www.surveymonkey.com/)
+	* [Google Forms - Custom Questionnaire](https://www.google.com/forms/about/)
+	* [RescueTime - Tracks everything you do on your computer](https://www.rescuetime.com/)
+	* [Moment App - Tracks how much you use your iPhone.](https://inthemoment.io/)
+	* [Automatic - Tracks your driving habits ($100 for device)](https://www.automatic.com/home/)
+	* [QualityTime - App like RescueTime (Android)](https://play.google.com/store/apps/details?id=com.zerodesktop.appdetox.qualitytime&hl=en)
+	* [iMood Journal - Keep track of your mood (Android and iPhone Apps)](https://www.imoodjournal.com/)
+	* [Pedometer & Weight Loss Coach - Tracks number of steps and calories burned (Android)](https://play.google.com/store/apps/details?id=cc.pacer.androidapp&hl=en)
+	* [Facebook Data Selfie Chrome Extension](http://dataselfie.it/)
+* Scrubbing Data
+	* [Sublime Text Edit](http://www.sublimetext.com/)
+	* [Open Refine](http://openrefine.org/)
+	* [Excel](https://products.office.com/en-us/excel)
+	* [Google Sheets](https://www.google.com/sheets/about/)
+* Data Analysis
+	* [Python](http://www.learnpython.org/)
+	* [R](https://www.r-project.org/)
+	* [R Studio](https://www.rstudio.com/)
+	* [Excel](https://products.office.com/en-us/excel)
+	* [Google Sheets](https://www.google.com/sheets/about/)
