@@ -47,12 +47,12 @@ Design and build and interactive data visualization or information graphic that 
 * Interactive geographic data visualizations
 	* Maps with D3
 	* Map Box
-	* Google Maps API
 
 ### Day 5 - Live Data and APIs
 * jQuery and AJAX requests
 * Live data and APIs
 	* Weather data
+	* Google Maps API
 
 ### Suggested Reading
 * [The Functional Art, by Alberto Cairo](https://www.amazon.com/gp/product/0321834739/)

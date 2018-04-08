@@ -2,4 +2,3 @@
 * Interactive geographic data visualizations
 	* Maps with D3
 	* Map Box
-	* Google Maps API
