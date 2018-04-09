@@ -1,6 +1,6 @@
 # CIID Data Viz workshop (April 23rd - 27th, 2018)
 ### Project Brief
-Design and build and interactive data visualization or information graphic that visually clarifies our reliance on electricity, how we generate power, how we use it and/or its effects on our planet. Formulate a question around this topic, use this question as your basis for you research, collect data from reputable sources to support your answer to this question and create a interactive visualization using this data.
+Design and build an interactive data visualization or information graphic that visually clarifies our reliance on electricity, how we generate power, how we use it and/or its effects on our planet. Formulate a question around this topic, use this question as your basis for you research, collect data from reputable sources to support your answer to this question and create a interactive visualization using this data.
 
 ### Day 1 - Data Pipeline
 * The Data Pipeline
