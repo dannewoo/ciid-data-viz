@@ -1,4 +1,5 @@
-### Day 3 - Interactive Data Viz
+### Day 3 - Data and the Web
+* Review of HTML, CSS, JavaScript and jQuery
 * Interactive data visualizations with D3
 	* Simple data driven graphics (bar, line, pie, etc.)
 	* Axis Scales

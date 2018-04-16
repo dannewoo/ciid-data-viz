@@ -40,24 +40,28 @@ Design and build an interactive data visualization or information graphic that v
 	* Know your audience
 * Ethics of Data Viz
 * Adobe Illustrator charting tool 
+* Processing/p5js
 * Datavisual
 
-### Day 3 & 4 - Interactive Data Viz
+### Day 3 - Data and the Web
+* Review of HTML, CSS, JavaScript and jQuery
 * Interactive data visualizations with D3
+
+### Day 4 - Geographic Data and APIs
 * Interactive geographic data visualizations
 	* Maps with D3
-	* Map Box
-
-### Day 5 - Live Data and APIs
-* jQuery and AJAX requests
-* Live data and APIs
-	* Weather data
 	* Google Maps API
+* Live Data and APIs
+	* Weather data
+
+### Day 5 - Project Presentations
+* Final refinements
+* Project presentations
 
 ### Suggested Reading
 * [The Functional Art, by Alberto Cairo](https://www.amazon.com/gp/product/0321834739/)
 * [The Truthful Art, by Alberto Cairo](https://www.amazon.com/gp/product/0321934075)
-* [Edward Tufte Books(All of Them)](https://www.edwardtufte.com/tufte/books_vdqi)
+* [Edward Tufte Books (All of Them)](https://www.edwardtufte.com/tufte/books_vdqi)
 * [Infographics: The Power of Visual Storytelling, by Jason Lankow,‎ Josh Ritchie,‎ Ross Crooks](https://www.amazon.com/Infographics-Visual-Storytelling-Jason-Lankow/dp/1118314042)
 * [Information Design Workbook, by Kim Baer](https://www.amazon.com/Information-Design-Workbook-approaches-inspiration/dp/1592536271)
 * [HTML and CSS, by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)

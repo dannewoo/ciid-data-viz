@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>Google Maps Simple</title>
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<style type="text/css">
+		#map {
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+</body>
+	<script type="text/javascript">
+
+		var map;
+
+		function initMap() {
+ 
+			var location = {lat: 40.735546, lng: -73.817771};
+			
+			map = new google.maps.Map(document.getElementById('map'), {
+				center: location,
+				zoom: 10
+			});
+
+			var marker = new google.maps.Marker({
+				position: location,
+				map: map,
+				title: 'Hello World!'
+			});
+
+		}
+
+	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=XXXXXXXXXXXXXXXXXXXXXXX&callback=initMap" async defer></script>
+</html>

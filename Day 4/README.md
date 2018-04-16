@@ -1,4 +1,6 @@
-### Day 4 - Interactive Data Viz
+### Day 4 - Geographic Data and APIs
 * Interactive geographic data visualizations
 	* Maps with D3
-	* Map Box
+	* Google Maps API
+* Live Data and APIs
+	* Weather data
