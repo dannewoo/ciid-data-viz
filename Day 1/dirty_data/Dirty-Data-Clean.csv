@@ -1,0 +1,30 @@
+Date,Country,Address,City,Min Value,Max Value,Average
+4/23/2015,United States,3245 First Street,Los Angeles,4,9,6.5
+4/24/2015,United States,28 Orange Ave,Los Angeles,2,7,4.5
+3/18/2014,United States,763 Main St,Los Angeles,5,9,7
+2/6/2015,United States,72 Second Ave,Los Angeles,6,9,7.5
+5/27/2014,United States,87 Thurston Street,Los Angeles,3,7,5
+6/30/2013,United States,652 Greene Street,New York,4,6,5
+5/7/2014,United States,887 Clinton Ave,New York,3,8,5.5
+3/3/2015,United States,554 Washington Street,New York,3,9,6
+12/23/2015,United States,92 Waverly Ave,New York,2,5,3.5
+2/24/2015,Germany,Am Falkpl. 5,Berlin,1,7,4
+3/26/2014,Germany,Mehringdamm 32,Berlin,4,6,5
+6/8/2014,Germany,Röntgenstraße 7,Berlin,1,8,4.5
+11/12/2014,Germany,Rudi-Dutschke-Straße 26,Berlin,2,6,4
+7/4/2015,Germany,Johann-Fichte-Straße 7,Munich,3,7,5
+8/13/2014,Germany,Platzl 9,Munich,1,8,4.5
+7/19/2015,Germany,Rablstraße 37,Munich,1,10,5.5
+8/14/2013,Germany,Spiridon-Louis-Ring 7,Munich,1,5,3
+11/30/2014,Germany,Grillparzerstraße 5,Munich,3,4,3.5
+9/23/2014,Germany,Alte Schßnhauser Str,Berlin,4,6,5
+8/13/2014,England,43 Upper Brook St,London,3,8,5.5
+11/12/2014,England,184 Bermondsey St,London,4,5,4.5
+7/19/2015,England,127 Ledbury Rd,London,4,6,5
+3/26/2014,England,6-10 Bruton St,London,2,8,5
+7/4/2015,England,157A Commercial St,London,4,9,6.5
+2/24/2015,England,160 Piccadilly,London,2,8,5
+9/23/2014,England,66 Knightsbridge,London,2,8,5
+5/26/2015,England,26-27 Green Lanes,London,2,10,6
+8/22/2014,England,20 Sherwood St,London,4,6,5
+2/14/2015,England,131 Stroud Green Rd,London,3,8,5.5

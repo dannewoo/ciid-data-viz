@@ -1,0 +1,181 @@
+EPICA Dome C Ice Core Holocene d13CO2 Data
+-----------------------------------------------------------------------
+               World Data Center for Paleoclimatology, Boulder
+                                  and
+                     NOAA Paleoclimatology Program
+-----------------------------------------------------------------------
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!!
+
+
+NAME OF DATA SET: EPICA Dome C Ice Core Holocene d13CO2 Data
+LAST UPDATE: 10/2009 (Original receipt by WDC Paleo)
+CONTRIBUTOR: Joachim Elsig, et al., University of Bern
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2009-119
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION:
+Elsig, J., et al. 2009.
+EPICA Dome C Ice Core Holocene d13CO2 Data.
+IGBP PAGES/World Data Center for Paleoclimatology
+Data Contribution Series # 2009-119.
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
+
+
+ORIGINAL REFERENCE:
+Elsig, J., J. Schmitt, D. Leuenberger, R. Schneider, M. Eyer,
+M. Leuenberger, F. Joos, H. Fischer, and T.F. Stocker.  2009.
+Stable isotope constraints on Holocene carbon cycle changes
+from an Antarctic ice core.
+Nature, Vol. 461, pp. 507-510, 24 September 2009.
+doi:10.1038/nature08393
+
+ABSTRACT:
+Reconstructions of atmospheric CO2 concentrations based on Antarctic
+ice cores reveal significant changes during the Holocene epoch,
+but the processes responsible for these changes in CO2 concentrations
+have not been unambiguously identified. Distinct characteristics
+in the carbon isotope signatures of the major carbon reservoirs
+(ocean, biosphere, sediments and atmosphere) constrain variations
+in the CO2 fluxes between those reservoirs. Here we present a highly
+resolved atmospheric d13C record for the past 11,000 years from
+measurements on atmospheric CO2 trapped in an Antarctic ice core.
+From mass-balance inverse model calculations performed with a
+simplified carbon cycle model, we show that the decrease in
+atmospheric CO2 of about 5 parts per million by volume (p.p.m.v.).
+The increase in d13C of about 0.25% during the early Holocene is
+most probably the result of a combination of carbon uptake of about
+290 gigatonnes of carbon by the land biosphere and carbon release
+from the ocean in response to carbonate compensation of the
+terrestrial uptake during the termination of the last ice age.
+The 20 p.p.m.v. increase of atmospheric CO2 and the small decrease
+in d13C of about 0.05% during the later Holocene can mostly be
+explained by contributions from carbonate compensation of earlier
+land-biosphere uptake and coral reef formation, with only a minor
+contribution from a small decrease of the land-biosphere carbon
+inventory.
+
+
+GEOGRAPHIC REGION: East Antarctica
+PERIOD OF RECORD: 11 kyrBP - 0.39 kyrBP
+
+FUNDING SOURCES:
+This work is a contribution to the European Project for Ice Coring
+in Antarctica (EPICA), a joint European Science Foundation/European
+Commission scientific programme, funded by the EU (EPICA-MIS) and by
+national contributions from Belgium, Denmark, France, Germany, Italy,
+the Netherlands, Norway, Sweden, Switzerland and the United Kingdom.
+The main logistic support was provided by IPEV and PNRA (at Dome C)
+and AWI (at Dronning Maud Land). We acknowledge financial support by
+the Swiss NSF, the DFG priority programme INTERDYNAMIK and the
+German climate programme DEKLIM. This is EPICA publication no. 227.
+
+
+
+DESCRIPTION:
+Carbon isotope record of CO2 (d13CO2) from the EPICA
+(European Project for Ice Coring in Antarctica) Dome C ice core
+covering 0 to 11 kyr BP. The air from polar ice-core samples
+of about 30g (AWI/Bern) and 5-6g (Bern) is extracted under vacuum
+with a sublimation method or via mechanical cracking, respectively,
+and the extracted gas is then analysed for d13CO2 using gas
+chromatographic separation and isotopic analyses on two independent
+mass spectrometers. The mean d13CO2 analytical uncertainty of both
+methods (1-sigma) is 0.07 per mil. The gas age scale used is EDC3
+gas age scenario 4 (Loulergue et al., Climate of the Past, 3,
+527-540, 2007)
+
+EPICA Dome C ice core location:  75�06'S, 123�21'E, 3233m above sea level
+
+Mean values and 1-sigma uncertainties are given for all the samples
+with depth differences <15cm.
+
+Depths marked via '*', are outliers, and have not been taken into account
+for deconvolution calculations. The outlier depths have been measured using
+both extraction methods and are very likely caused by an ice core break
+during the drilling (compare supplementary information of Elsig et al. 2009)
+
+
+
+DATA:
+EDC d13CO2 Data
+All data (AWI and Bern).
+
+Column 1: EDC1999 depth (m)
+Column 2: Gas Age (EDC3 gas age, years before 1950 AD)
+Column 3: d13CO2 mean (permil on VPDB scale), corrected for gravitational fractionation using d15N2 data
+Column 4: 1-sigma uncertainty (permil on VPDB scale)
+Column 5: number of replicates
+Column 6: extraction method (mechanical cracking or sublimation of the ice)
+Column 7: measured ice core (EDC96)
+
+Depth          gas_age             d13CO2     err d13CO2          replicates          machine   ice core
+110.19             387             -6.37            0.10                   4          cracker   EDC96
+118.48             660             -6.38            0.05                   2          cracker   EDC96
+129.51            1043             -6.30            0.00                   2          cracker   EDC96
+129.61            1047             -6.45            0.02                   3      sublimation   EDC96
+141.17            1440             -6.38            0.10                   3          cracker   EDC96
+144.00            1543             -6.36             NAN                   1      sublimation   EDC96
+144.57            1565             -6.38            0.03                  20          cracker   EDC96
+151.07            1801             -6.31            0.11                   2          cracker   EDC96
+154.22            1912             -6.38             NAN                   1      sublimation   EDC96
+162.01            2198             -6.36            0.11                   2          cracker   EDC96
+170.80            2523             -6.82*           0.18                   3      sublimation   EDC96
+170.87            2525             -6.65*           0.07                   4          cracker   EDC96
+172.94            2594             -6.42            0.05                   2      sublimation   EDC96
+172.97            2595             -6.43            0.12                   2          cracker   EDC96
+181.37            2893             -6.28            0.09                   2          cracker   EDC96
+185.51            3030             -6.30            0.05                   2          cracker   EDC96
+185.65            3036             -6.33             NAN                   1      sublimation   EDC96
+192.93            3325             -6.26            0.13                   3          cracker   EDC96
+196.11            3439             -6.29             NAN                   1      sublimation   EDC96
+206.01            3778             -6.37            0.06                   2          cracker   EDC96
+214.90            4088             -6.38            0.09                   3      sublimation   EDC96
+216.52            4153             -6.36            0.03                   2          cracker   EDC96
+220.98            4317             -6.41            0.06                   4          cracker   EDC96
+231.91            4692             -6.24            0.10                   2          cracker   EDC96
+231.97            4694             -6.31             NAN                   1      sublimation   EDC96
+240.11            4992             -6.34            0.13                   2          cracker   EDC96
+250.34            5350             -6.37            0.11                   3      sublimation   EDC96
+250.44            5353             -6.32            0.08                   3          cracker   EDC96
+260.28            5694             -6.31            0.07                   3          cracker   EDC96
+260.40            5698             -6.34            0.06                   3      sublimation   EDC96
+271.90            6116             -6.36            0.04                   2          cracker   EDC96
+280.25            6414             -6.28             NAN                   1      sublimation   EDC96
+280.40            6420             -6.31            0.07                   2          cracker   EDC96
+283.55            6533             -6.28            0.08                   2          cracker   EDC96
+291.82            6826             -6.36            0.05                   2          cracker   EDC96
+294.50            6928             -6.33            0.07                   6          cracker   EDC96
+294.58            6930             -6.39             NAN                   1      sublimation   EDC96
+302.84            7221             -6.37            0.08                   4          cracker   EDC96
+305.50            7300             -6.29            0.13                   2          cracker   EDC96
+308.00            7389             -6.43             NAN                   1      sublimation   EDC96
+312.71            7552             -6.41            0.02                  19          cracker   EDC96
+313.85            7582             -6.31            0.14                   2          cracker   EDC96
+317.89            7721             -6.39            0.05                   4          cracker   EDC96
+318.47            7737             -6.34            0.03                   2          cracker   EDC96
+320.09            7800             -6.28            0.05                   2          cracker   EDC96
+321.70            7853             -6.42            0.05                   3      sublimation   EDC96
+324.82            7971             -6.30            0.12                   2          cracker   EDC96
+326.38            8041             -6.55            0.08                   4          cracker   EDC96
+330.31            8166             -6.47            0.01                   2          cracker   EDC96
+338.48            8461             -6.50             NAN                   1      sublimation   EDC96
+338.50            8462             -6.38            0.08                   2          cracker   EDC96
+341.25            8561             -6.45            0.09                   4          cracker   EDC96
+349.54            8852             -6.50            0.03                   2          cracker   EDC96
+352.45            8968             -6.39             NAN                   1      sublimation   EDC96
+359.87            9212             -6.48            0.02                   2          cracker   EDC96
+369.35            9519             -6.46             NAN                   1      sublimation   EDC96
+369.37            9520             -6.43            0.09                   3          cracker   EDC96
+374.94            9712             -6.49            0.06                   2          cracker   EDC96
+379.71            9891             -6.61            0.07                   4          cracker   EDC96
+382.02            9971             -6.55            0.05                   3      sublimation   EDC96
+385.27           10086             -6.64            0.02                   3          cracker   EDC96
+390.28           10282             -6.49            0.04                   2          cracker   EDC96
+396.18           10507             -6.57             NAN                   2          cracker   EDC96
+396.20           10507             -6.63            0.12                   1      sublimation   EDC96
+401.79           10721             -6.50            0.07                   4          cracker   EDC96
+403.83           10787             -6.50            0.04                   4          cracker   EDC96
+406.05           10874             -6.58            0.03                   2          cracker   EDC96
+407.24           10919             -6.72            0.09                   4          cracker   EDC96
+409.58           11003             -6.50            0.00                   2          cracker   EDC96
+409.64           11005             -6.63             NAN                   1      sublimation   EDC96
