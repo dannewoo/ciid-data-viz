@@ -67,3 +67,5 @@ Design and build an interactive data visualization or information graphic that v
 * [HTML and CSS, by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 * [JavaScript and JQuery, by Jon Duckett](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 * [Interactive Data Visualization for the Web, by Scott Murray](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1449339735)
+* [Weapons of Math Destruction, Cathy O'Neil](https://weaponsofmathdestructionbook.com/)
+* [Black Box Society, Frank Pasquale](https://www.amazon.com/Black-Box-Society-Algorithms-Information/dp/0674970845)

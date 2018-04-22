@@ -18,6 +18,13 @@
 
 ### Online Resources
 * Sourcing Data
+	* [NOAA Climate Data Online Dataset Discovery Portal](https://www.ncdc.noaa.gov/cdo-web/datasets)
+	* [Data.gov Climate Data Portal](https://www.data.gov/climate/)
+	* [NOAA Global Surface Temperature Data](https://www.ncdc.noaa.gov/data-access/marineocean-data/noaa-global-surface-temperature-noaaglobaltemp)
+	* [CO2 Ice Core Datasets](https://www.co2.earth/co2-ice-core-data)
+	* [Data.gov U.S. Department of Energy Data Portal](https://catalog.data.gov/organization/doe-gov)
+	* [European Open Data Portal](https://www.europeandataportal.eu/en)
+	* [European Environment Agency Data portal](https://www.eea.europa.eu/data-and-maps/data#c0=5&c11=&c5=all&b_start=0)
 	* [Google Trends](https://www.google.com/trends/)
 	* [Google Correlate](http://www.google.com/trends/correlate)
 	* [City of New York](https://data.cityofnewyork.us/)
