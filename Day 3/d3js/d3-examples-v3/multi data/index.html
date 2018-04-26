@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Week 12 - Multi Bar Chart</title>
+	<!-- Load the d3 library -->
+	<script src="https://d3js.org/d3.v3.min.js"></script>
+	<!-- Styles for the chart -->
+	<style type="text/css">
+		#chart {
+			background-color: #ccc;
+			font-family: Arial;
+		}
+		.axis path{
+			fill: none;
+			stroke: rgba(0, 0, 0, 0.5);
+		}
+		.tick line {
+			stroke-width: 1;
+			stroke: rgba(0, 0, 0, 0.5);
+		}
+		.tick text {
+			font-size: 10px;
+		}
+		.legend text {
+			font-size: 12px;
+		}
+	</style>
+</head>
+<body>
+	<!-- Create the empty SVG to pass your chart elements into -->
+	<svg id="chart" width="650" height="400"></svg>
+</body>
+<script type="text/javascript">
+	// We need to load in our CSV data file.
+	d3.csv("data.csv", function(data) {
+		console.log(data);
+		// We need to create a variable to collect all the column headers other than the first label column.
+		var colHeaders = d3.keys(data[0]).filter(function(key) { return key !== "label"; });
+		// We loop though all the data and reformat it to be in a usable object format. We add this object to the existing data object with the label "values", in this object we reformat the data to have the column name and value to more easily create our bars.
+		data.forEach(function(d) {
+		    d.values = colHeaders.map(function(name) { return {name: name, value: +d[name]}; });
+		});
+
+		console.log(data[0])
+
+		d3.select('body')
+			.append('p')
+			.html(data[0].label);
+	})
+</script>
+</html>
+
+
+
+
+
+

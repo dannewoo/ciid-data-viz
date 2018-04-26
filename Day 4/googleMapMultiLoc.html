@@ -1,0 +1,68 @@
+<html>
+<head>
+	<title>Google Maps and Openpaths</title>
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<style type="text/css">
+		#map {
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+</body>
+	<script type="text/javascript">
+
+		var map;
+		var Markers = {};
+		var infowindow;
+		var dataFile = "places.json";
+		var locations = [];
+
+		function initMap() {
+
+			$.getJSON( dataFile, function(data) {
+				// Do something with the data.
+				console.log(data[0])
+				for (var i = 0; i < data.length; i++) {
+					if (data[i].segments) {
+						for (var j = 0; j < data[i].segments.length; j++) {
+							locations.push({'date':  data[i].date,'lat': data[i].segments[j].place.location.lat, 'lon': data[i].segments[j].place.location.lon});
+						}
+					}
+				}
+	
+				console.log(locations);
+
+				map = new google.maps.Map(document.getElementById('map'), {
+					center: {lat: locations[0].lat, lng: locations[0].lon},
+					zoom: 5
+				});
+
+				infowindow = new google.maps.InfoWindow();
+
+				for (var i = 0; i < locations.length; i++) {
+
+					var marker = new google.maps.Marker({
+						position: {lat: locations[i].lat, lng: locations[i].lon},
+						map: map
+					});
+
+					google.maps.event.addListener(marker, 'click', (function(marker, i) {
+						return function() {
+							infowindow.setContent("<p>" + locations[i].date.replace(/(\d{4})(\d{2})(\d{2})/, "$1/$2/$3") + "</p>");
+							infowindow.open(map, marker);
+						}
+					}) (marker, i));
+
+				};
+
+			})
+
+
+		}
+
+	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkLftkOSrBvk1OM1ktf6LUpXSq_WT-rhE&callback=initMap" async defer></script>
+</html>
